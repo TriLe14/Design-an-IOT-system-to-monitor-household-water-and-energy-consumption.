@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RELAY Pin=U1-2
+Added Component: Designator=J2(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RELAY Pin=J1-3
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-2
+Added Net: Name=NetJ2_3
+Added Member To Class: ClassName=Node_ADE Member=Component IC1 ADE7753
+Added Member To Class: ClassName=Node_ADE Member=Component J2 Jumper 3

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=J1-4
+Change Component Footprint: Designator=J1 Old Footprint=JP2X2 New Footprint=JP3
+Change Component Comment : Designator=J1 Old Comment=Jumper 2x2 New Comment=Jumper 3
+Change component parameters: Designator = "J1" ("J1"); Footprint = "JP2X2"; UniqueID = "\NXHJQNGU" ("\NXHJQNGU")
+Change component parameters (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=J1-2

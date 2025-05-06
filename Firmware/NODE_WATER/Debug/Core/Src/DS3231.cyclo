@@ -1,0 +1,14 @@
+DS3231.c:27:9:decToBcd	1
+DS3231.c:32:9:bcdToDec	1
+DS3231.c:37:6:Set_Time	1
+DS3231.c:52:6:Get_Time	1
+DS3231.c:65:7:Get_Temp	1
+DS3231.c:73:6:force_temp_conv	2
+DS3231.c:85:6:EEPROM_WriteByte	1
+DS3231.c:99:9:EEPROM_ReadByte	1
+DS3231.c:113:6:EEPROM_WriteTwoBytes	1
+DS3231.c:127:10:EEPROM_ReadTwoBytes	1
+DS3231.c:142:6:EEPROM_WriteFloat	1
+DS3231.c:161:7:EEPROM_ReadFloat	1
+DS3231.c:177:6:Save_Month	1
+DS3231.c:182:6:Time_LCD	1

@@ -1,0 +1,5 @@
+Added Component: Designator=J2(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=BUTTON Pin=J2-3
+Added Member To Class: ClassName=Node_STM32 Member=Component J2 Jumper 3

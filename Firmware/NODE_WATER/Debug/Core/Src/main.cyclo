@@ -1,0 +1,10 @@
+main.c:92:6:resetTimerCounter	1
+main.c:104:5:main	22
+main.c:322:6:HAL_UART_RxCpltCallback	5
+main.c:366:6:SystemClock_Config	3
+main.c:402:13:MX_I2C1_Init	2
+main.c:436:13:MX_I2C2_Init	2
+main.c:470:13:MX_TIM1_Init	4
+main.c:519:13:MX_USART1_UART_Init	2
+main.c:552:13:MX_GPIO_Init	1
+main.c:581:6:Error_Handler	1
